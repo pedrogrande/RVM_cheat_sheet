@@ -5,7 +5,7 @@
 
 `rvm use ruby-2.0.0-p247@rails4 --create`
 
-`gem install rails --version=4.0.0`
+`gem install rails --version=4.0.0 --no-rdoc --no-ri`
 
 
 
